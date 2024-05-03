@@ -1,7 +1,7 @@
 ﻿#Docker run
 docker run -d --name dockerapp \
 -e "ASPNETCORE_ENVIRONMENT=Development" \
--p 80:80 \
+-p 8080:80 \
 dockerapp:v0.0.1
 
 #Build docker image

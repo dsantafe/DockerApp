@@ -1,4 +1,4 @@
-namespace DockerApp
+namespace DockerApp.Domain.Entities
 {
     public class WeatherForecast
     {
